@@ -9,5 +9,56 @@
 }
 
 .button {
-    float: none;
+    float: none; 
 }
+
+.btnBlue {
+    background: #2F80ED;
+    border: 1px solid #2F80ED;
+    color: white;
+    border-radius: 8px;
+    text-transform: uppercase;
+    line-height: 140%;
+    width: 384px;
+    height: 72px;
+    font-family: 'Muller';
+    font-size: 16px; 
+}
+
+.btnTransparent {
+border: 2px solid #2F80ED;
+border-radius: 8px;
+width: 280px;
+height: 40px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+align-items: center;
+text-align: center;
+color: #2F80ED;
+}
+
+.abovetext {
+width: 324px;
+height: 40px;
+left: 352px;
+top: 733px;
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+color: #4F4F4F;
+}
+
+.number {
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 140%;
+}
+
+
